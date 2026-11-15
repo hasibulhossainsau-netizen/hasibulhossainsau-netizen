@@ -6,11 +6,14 @@
   <img src="https://img.shields.io/badge/Degree-MS_Fellow_%7C_ASVM-green?style=flat-square&logo=academia" alt="Education" />
 </p>
 ---
-### 🔬 About Me 
+
+### 🔬 About Me
 * 🌱 I'm a Master of Science (MS) Fellow and researcher in the Department of Microbiology and Parasitology at **Sher-e-Bangla Agricultural University (SAU)**, Dhaka, Bangladesh.
 * 💻 Passionate about **antimicrobial resistance (AMR) genomics**, **comparative bacterial genomics**, **immunoinformatics**, and automated computational pipelines.
 * ⚙️ Experienced in building robust and reproducible workflows using **Nextflow DSL2**, **Snakemake**, **Python**, **R**, and **Bash**.
-* 🎸 Outside of research, I enjoy playing guitar, writing poetry, and exploring mythology and cosmic horror 
+* 🎸 Outside of research, I enjoy writing poetry, playing the acoustic guitar, and exploring mythology and cosmic horror.
+
+--- 
 <!--
 **hasibulhossainsau-netizen/hasibulhossainsau-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
