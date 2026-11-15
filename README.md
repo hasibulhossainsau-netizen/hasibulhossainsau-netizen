@@ -46,7 +46,7 @@
 ### 📬 Connect with Me
 * 📧 Email: `hasibul.hossain.sau@gmail.com` / `hasibulhossain2010985@sau.edu.bd`
 * 🔗 ORCID: [0009-0001-5975-227X](https://orcid.org/0009-0001-5975-227X)
-* 🌐 Portfolio: [Personal Portfolio Website]([https://github.com/hasibulhossainsau-netizen](https://md-hasibul-hossain-portfolio.vercel.app/))
+* 🌐 Portfolio: [Personal Portfolio Website]( https://github.com/hasibulhossainsau-netizen](https://md-hasibul-hossain-portfolio.vercel.app/ )
 <!--
 **hasibulhossainsau-netizen/hasibulhossainsau-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
