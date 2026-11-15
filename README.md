@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasibulhossainsau-netizen&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Role-Bioinformatics_Researcher-blue?style=flat-square&logo=python" alt="Role" />
-  <img src="https://img.shields.io/badge/Degree-MS_Fellow_%7C_DVM-green?style=flat-square&logo=academia" alt="Education" />
+  <img src="https://img.shields.io/badge/Degree-MS_Fellow_%7C_ASVM-green?style=flat-square&logo=academia" alt="Education" />
 </p>
 
 <!--
