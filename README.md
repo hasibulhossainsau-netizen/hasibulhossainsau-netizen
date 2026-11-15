@@ -21,7 +21,7 @@
 | **Languages & Scripting** | Python, R, Bash / Shell Scripting |
 | **Bioinformatics & Genomics** | Nextflow, Snakemake, GROMACS, AlphaFold2 / ColabFold, SPAdes, Bakta, Panaroo, IQ-TREE, RGI, ResFinder, AutoDock Vina, PyMOL |
 | **Data Science & ML** | Pandas, NumPy, SciPy, scikit-learn, Biopython, Seaborn, Matplotlib |
-| **HPC & Cloud** | Git, GitHub, Docker, Micromamba/Conda, Linux (Ubuntu/WSL2), AWS SageMaker, CIPRES, Vercel |
+| **HPC & Cloud** | Git, GitHub, Docker, Micromamba/Conda, Linux (Ubuntu/WSL2) |
 
 ---
 
