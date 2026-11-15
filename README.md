@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I am Md Hasibul Hossain (sukanto)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hasibulhossainsau-netizen&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Role-Bioinformatics_Researcher-blue?style=flat-square&logo=python" alt="Role" />
+  <img src="https://img.shields.io/badge/Degree-MS_Fellow_%7C_DVM-green?style=flat-square&logo=academia" alt="Education" />
+</p>
 
 <!--
 **hasibulhossainsau-netizen/hasibulhossainsau-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
